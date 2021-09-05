@@ -1,0 +1,15 @@
+{
+  "posts": [
+    {
+      "author": caleb k,
+      "title": "the best, me"
+    }
+    {
+      "author": jim bob,
+      "title": "im mediocre"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
